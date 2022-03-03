@@ -25,3 +25,10 @@
 
 ### Cloning a Website to Use With BeEF
 
+httrack http://SITE_URL -O LOCALDIRECTORY
+
+---- 
+
+### Malicious Links Created
+
+- http://173.255.225.239:3000/demos/VPNXLogin.html
