@@ -18,6 +18,8 @@
 2. ```rvm ruby```
 3. ```./beef```
   - If all has started successfully, you will see the below. For any errors and troubleshooting, please refer to the FAQ section - TO DO
+
+4. To access the BeEF UI Panel - http://173.255.225.239:3000/ui/authentication
   
   ![](https://github.com/patricklleclerc/Security-Documentation/blob/main/Ethical%20Hacking/BeEf/Screenshots/BeEF%20-%20Server%20Connected.jpg)
 
