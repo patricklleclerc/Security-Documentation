@@ -12,6 +12,6 @@
 
 1. ```cd to beef/```
 2. ```./beef```
-  - If all has started successfully, you will see the below.
+  - If all has started successfully, you will see the below. For any errors and troubleshooting, please refer to the FAQ section - TO DO
   
   ![](https://github.com/patricklleclerc/Security-Documentation/blob/main/Ethical%20Hacking/BeEf/Screenshots/BeEF%20-%20Server%20Connected.jpg)
